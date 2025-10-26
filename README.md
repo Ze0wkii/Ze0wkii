@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anurag</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ze0wkii&label=Profile%20views&color=0e75b6&style=flat" alt="ze0wkii" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ze0wkii&label=Profile%20views&color=0e75b6&style=flat" alt="anurag.t." /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ze0wkii" alt="ze0wkii" /></a> </p>
 
 <h4 align="center">I really like coding👍</h4>
 <p align="center">Currently I am trying to get into data analysis & data science.</p>
