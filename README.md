@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ze0wkii&label=Profile%20views&color=0e75b6&style=flat" alt="anurag.t." /> </p>
 
 
 <h4 align="center">I really like coding👍</h4>
@@ -19,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ze0wkii&show_icons=true&locale=en&layout=compact" alt="ze0wkii" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ze0wkii&show_icons=true&locale=en" alt="ze0wkii" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ze0wkii&label=Profile%20views&color=0e75b6&style=flat" alt="anurag.t." /> </p>
