@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ze0wkii" alt="ze0wkii" /></a> </p>
 
 <h4 align="center">I really like coding👍</h4>
-<p align="left">Currently I am trying to get into data analysis & data science.</p>
+<p align="center">Currently I am trying to get into data analysis & data science.</p>
 
 
 <h3 align="left">Connect with me:</h3>
